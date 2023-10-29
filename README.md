@@ -14,3 +14,4 @@ POSTTEST#6 : https://github.com/p1xlb/praktikum_web/tree/main/POSTTEST6
 POSTTEST#7 : https://github.com/p1xlb/praktikum_web/tree/main/POSTTEST7
 - Login / Logout lewat Home(index.php)
 - Kredensial Admin : admim1 / 1234
+- Tambah/Edit/Hapus hanya bisa diakses oleh admin.
